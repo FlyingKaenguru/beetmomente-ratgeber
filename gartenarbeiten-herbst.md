@@ -2,7 +2,7 @@ Im Herbst wird geerntet, gepflanzt und langsam aufgeräumt. Vieles, was du jetzt
 
 ## Blumenzwiebeln stecken
 
-Tulpen, Narzissen, Krokusse und Hyazinthen kommen von September bis November in die Erde. Ist der Herbst mild, darfst du dir ruhig Zeit lassen. Solange der Boden nicht gefroren ist, gehen viele Zwiebeln sogar noch im Dezember. Als Faustregel für die Tiefe gilt das Zwei bis Dreifache der Zwiebelhöhe. Die Spitze zeigt nach oben.
+Tulpen, Narzissen, Krokusse und Hyazinthen kommen von September bis November in die Erde. Ist der Herbst mild, darfst du dir ruhig Zeit lassen. Solange der Boden nicht gefroren ist, gehen viele Zwiebeln sogar noch im Dezember. Als Faustregel setzt du sie zwei bis dreimal so tief, wie die Zwiebel hoch ist. Die Spitze zeigt nach oben.
 
 ## Rasen
 
@@ -10,11 +10,11 @@ Gemäht wird, solange der Rasen wächst, meist bis Ende Oktober oder Anfang Nove
 
 ## Laub sinnvoll nutzen
 
-Unter Sträuchern und auf den Beeten darf das Laub dagegen liegen bleiben. Es schützt den Boden und wird von Regenwürmern verarbeitet. Zusammengerechtes Laub gehört nicht in die Biotonne. Schichte es in einer ruhigen Ecke zu einem Haufen auf, am besten mit ein paar Zweigen darüber. So hat der Igel einen Platz für den Winter. Lass den Haufen bis zum Mai liegen.
+Unter Sträuchern und auf den Beeten darf das Laub dagegen liegen bleiben. Es schützt den Boden und wird von Regenwürmern verarbeitet. Gesundes Laub gehört nicht in die Biotonne. Blätter mit Schorf, Rost oder Miniermotten kommen dagegen besser weg, sonst überwintern die Schädlinge darin. Schichte es in einer ruhigen Ecke zu einem Haufen auf, am besten mit ein paar Zweigen darüber. So hat der Igel einen Platz für den Winter. Lass den Haufen bis zum Mai liegen.
 
 ## Stauden stehen lassen
 
-Schneide verblühte Stauden jetzt noch nicht ab. In den trockenen Stängeln überwintern Insekten, und die Samenstände sind Futter für Vögel. Auch Fallobst, das du nicht mehr brauchst, darf ruhig unter den Bäumen liegen bleiben.
+Schneide verblühte Stauden jetzt noch nicht ab. In den trockenen Stängeln überwintern Insekten, und die Samenstände sind Futter für Vögel. Faules oder krankes Fallobst sammelst du dagegen auf, damit sich Pilze wie Monilia nicht ausbreiten. Auch vertrocknete Früchte, die noch am Baum hängen, nimmst du ab.
 
 ## Planen
 

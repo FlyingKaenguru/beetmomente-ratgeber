@@ -8,7 +8,7 @@ Geschnitten wird gleich nach der Blüte, meist Ende Mai oder im Juni. Warte nich
 
 Unter jeder welken Rispe sitzt ein Paar frischer Blätter oder junger Triebe. Genau dort entstehen die neuen Blüten. Setz die Schere direkt oberhalb dieses Paares an und schneide nur die welke Rispe ab. Schneide nicht tiefer, sonst gehen die Knospen für das nächste Jahr verloren.
 
-Bei einem großen Strauch reicht es, die Rispen zu entfernen, die du gut erreichst. Die übrigen fallen mit der Zeit von selbst ab.
+Bei einem großen Strauch reicht es, die Rispen zu entfernen, die du gut erreichst. Die übrigen kannst du hängen lassen, das schadet dem Strauch nicht. Einen starken Rückschnitt erlaubt das Naturschutzgesetz nur von Oktober bis Ende Februar.
 
 ## Warum sich das lohnt
 

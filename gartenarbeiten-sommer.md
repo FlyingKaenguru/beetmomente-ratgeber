@@ -8,7 +8,7 @@ Regnet es, kannst du dir das Gießen oft sparen. Die App erinnert dich an deine 
 
 ## Flieder und Rosen
 
-Ist der Flieder verblüht, schneidest du die welken Rispen ab. Wie das geht, steht im Beitrag zum Flieder. Bei Rosen, die öfter blühen, schneidest du Verblühtes ab, damit sie Kraft für neue Blüten hat.
+Ist der Flieder verblüht, schneidest du die welken Rispen ab. Wie das geht, steht im Beitrag zum Flieder. Bei Rosen, die öfter blühen, schneidest du Verblühtes ab, damit sie Kraft für neue Blüten haben.
 
 ## Hecken und Obst
 
