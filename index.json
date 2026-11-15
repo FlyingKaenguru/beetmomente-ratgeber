@@ -2,6 +2,17 @@
   "schema_version": 1,
   "articles": [
     {
+      "id": "weinrebe-schneiden",
+      "title": "Weinrebe schneiden",
+      "summary": "Wie du eine junge Rebe erziehst und jedes Jahr richtig schneidest.",
+      "file": "weinrebe-schneiden.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 3,
+      "tags": ["Winter", "Schnitt", "Obst"],
+      "months": [1, 2, 3, 6, 7],
+      "plants": []
+    },
+    {
       "id": "garten-winterfest-machen",
       "title": "Garten winterfest machen",
       "summary": "Beete, Stauden, Kübel und Leitungen gut durch den Winter bringen.",
