@@ -42,6 +42,8 @@ geschützt.
 index.json                    Inhaltsverzeichnis
 garten-winterfest-machen.md   ein Beitrag je Datei
 LICENSE                       CC BY 4.0
+scripts/check.py              Prüfung (Verzeichnis, Länge, Stil)
+.github/workflows/check.yml   führt die Prüfung bei Pull Requests aus
 ```
 
 ### index.json
@@ -85,7 +87,12 @@ Fehlerhafte Einträge überspringt die App, der Rest bleibt sichtbar.
 - Markdown, **ohne** Überschrift erster Ebene (`# …`), den Titel zeigt die
   App. Abschnitte mit `##`.
 - Stil: du-Form, kurze Sätze, keine Ausrufezeichen, keine Binde- oder
-  Gedankenstriche, rund 500 bis 600 Wörter.
+  Gedankenstriche.
+- Länge: **höchstens etwa 3 Minuten Lesezeit**, also höchstens rund
+  600 Wörter (200 Wörter pro Minute). Längere Themen auf mehrere Beiträge
+  aufteilen.
+- `scripts/check.py` prüft Verzeichnis, Länge, Lesezeit und Stil; die
+  GitHub Action führt es bei jedem Pull Request aus.
 - Am Ende jedes Beitrags der Hinweis „Alle Angaben ohne Gewähr“ mit
   Quelle und Lizenz.
 - Keine Bilder von fremden Servern; die App zeigt sie nicht an.
