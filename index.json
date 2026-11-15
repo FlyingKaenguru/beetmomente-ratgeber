@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "articles": [
+    {
+      "id": "garten-winterfest-machen",
+      "title": "Garten winterfest machen",
+      "summary": "Beete, Stauden, Kübel und Leitungen gut durch den Winter bringen.",
+      "file": "garten-winterfest-machen.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 3,
+      "tags": ["Herbst", "Winter"],
+      "months": [10, 11, 12],
+      "plants": []
+    }
+  ]
+}
