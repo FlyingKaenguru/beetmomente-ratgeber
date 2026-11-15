@@ -11,6 +11,72 @@
       "tags": ["Herbst", "Winter"],
       "months": [10, 11, 12],
       "plants": []
+    },
+    {
+      "id": "gartenarbeiten-fruehling",
+      "title": "Gartenarbeiten im Frühling",
+      "summary": "Stauden, Rosen, Hecken und erste Aussaaten: was von März bis Mai ansteht.",
+      "file": "gartenarbeiten-fruehling.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 2,
+      "tags": ["Frühling", "Gartenarbeiten"],
+      "months": [3, 4, 5],
+      "plants": []
+    },
+    {
+      "id": "gartenarbeiten-sommer",
+      "title": "Gartenarbeiten im Sommer",
+      "summary": "Gießen, Ernten, Folgesaaten und schonender Schnitt von Juni bis August.",
+      "file": "gartenarbeiten-sommer.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 1,
+      "tags": ["Sommer", "Gartenarbeiten"],
+      "months": [6, 7, 8],
+      "plants": []
+    },
+    {
+      "id": "gartenarbeiten-herbst",
+      "title": "Gartenarbeiten im Herbst",
+      "summary": "Blumenzwiebeln, Rasen, Laub und Stauden im September und Oktober.",
+      "file": "gartenarbeiten-herbst.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 1,
+      "tags": ["Herbst", "Gartenarbeiten"],
+      "months": [9, 10],
+      "plants": []
+    },
+    {
+      "id": "gartenarbeiten-winter",
+      "title": "Gartenarbeiten im Winter",
+      "summary": "Obstbäume schneiden, Hecken bis Ende Februar und das neue Gartenjahr planen.",
+      "file": "gartenarbeiten-winter.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 1,
+      "tags": ["Winter", "Gartenarbeiten"],
+      "months": [1, 2],
+      "plants": []
+    },
+    {
+      "id": "tomaten-pikieren",
+      "title": "Tomaten pikieren",
+      "summary": "Wann und wie du junge Tomaten in eigene Töpfe setzt.",
+      "file": "tomaten-pikieren.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 1,
+      "tags": ["Anzucht", "Tomate"],
+      "months": [3, 4],
+      "plants": ["tomate"]
+    },
+    {
+      "id": "flieder-verbluehte-blueten-schneiden",
+      "title": "Flieder: verwelkte Blüten schneiden",
+      "summary": "Nach der Blüte richtig schneiden, damit der Flieder im nächsten Jahr wieder blüht.",
+      "file": "flieder-verbluehte-blueten-schneiden.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 1,
+      "tags": ["Schnitt", "Zierpflanzen"],
+      "months": [5, 6],
+      "plants": []
     }
   ]
 }
