@@ -88,6 +88,94 @@
       "tags": ["Schnitt", "Zierpflanzen"],
       "months": [5, 6],
       "plants": []
+    },
+    {
+      "id": "tomaten-ausgeizen",
+      "title": "Tomaten ausgeizen",
+      "summary": "Welche Triebe du bei Stabtomaten entfernst und warum Buschtomaten wachsen dürfen.",
+      "file": "tomaten-ausgeizen.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 2,
+      "tags": ["Sommer", "Tomate", "Pflege"],
+      "months": [6, 7, 8],
+      "plants": ["tomate", "tomate_stab", "fleischtomate", "kirschtomate", "roma_tomate"]
+    },
+    {
+      "id": "zucchini-pflegen-und-ernten",
+      "title": "Zucchini pflegen und ernten",
+      "summary": "Gießen, rechtzeitig ernten und was bei Mehltau und bitteren Früchten zu tun ist.",
+      "file": "zucchini-pflegen-und-ernten.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 2,
+      "tags": ["Sommer", "Gemüse", "Ernte", "Pflanzenschutz"],
+      "months": [6, 7, 8, 9],
+      "plants": ["zucchini", "zucchini_gelb"]
+    },
+    {
+      "id": "kartoffeln-vorkeimen",
+      "title": "Kartoffeln vorkeimen",
+      "summary": "Wie du Pflanzkartoffeln im Frühjahr vorkeimst und früher ernten kannst.",
+      "file": "kartoffeln-vorkeimen.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 2,
+      "tags": ["Frühling", "Gemüse", "Anzucht"],
+      "months": [3, 4],
+      "plants": ["kartoffel", "fruehkartoffel_sammelprofil"]
+    },
+    {
+      "id": "erdbeeren-nach-der-ernte",
+      "title": "Erdbeeren nach der Ernte pflegen",
+      "summary": "Laub schneiden, Ausläufer nutzen und düngen, damit es im nächsten Jahr wieder viele Früchte gibt.",
+      "file": "erdbeeren-nach-der-ernte.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 2,
+      "tags": ["Sommer", "Obst", "Pflege"],
+      "months": [7, 8],
+      "plants": ["erdbeere"]
+    },
+    {
+      "id": "salat-folgesaat-und-schnecken",
+      "title": "Salat: Folgesaat und Schutz vor Schnecken",
+      "summary": "Wie du den ganzen Sommer frischen Salat erntest und ihn vor Schnecken schützt.",
+      "file": "salat-folgesaat-und-schnecken.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 2,
+      "tags": ["Frühling", "Sommer", "Gemüse", "Aussaat", "Pflanzenschutz"],
+      "months": [4, 5, 6, 7, 8],
+      "plants": ["salat", "kopfsalat", "pfluecksalat", "roemersalat", "eichblattsalat"]
+    },
+    {
+      "id": "moehren-saeen-und-vereinzeln",
+      "title": "Möhren säen und vereinzeln",
+      "summary": "Aussaat, Geduld beim Keimen, richtig ausdünnen und Schutz vor der Möhrenfliege.",
+      "file": "moehren-saeen-und-vereinzeln.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 2,
+      "tags": ["Frühling", "Gemüse", "Aussaat"],
+      "months": [3, 4, 5, 6],
+      "plants": ["moehre"]
+    },
+    {
+      "id": "basilikum-pflegen-und-ernten",
+      "title": "Basilikum pflegen und ernten",
+      "summary": "Sonniger Platz, richtig gießen und so ernten, dass die Pflanze buschig nachwächst.",
+      "file": "basilikum-pflegen-und-ernten.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 2,
+      "tags": ["Sommer", "Kräuter", "Pflege", "Ernte"],
+      "months": [5, 6, 7, 8, 9],
+      "plants": ["basilikum", "basilikum_zitronen", "basilikum_zimt", "thai_basilikum"]
+    },
+    {
+      "id": "gurken-im-freiland",
+      "title": "Gurken im Freiland",
+      "summary": "Pflanzen, gießen, ernten und Mehltau vorbeugen bei Gurken im Beet.",
+      "file": "gurken-im-freiland.md",
+      "updated": "2026-11-15",
+      "reading_minutes": 2,
+      "tags": ["Sommer", "Gemüse", "Pflege"],
+      "months": [5, 6, 7, 8, 9],
+      "plants": ["gurke", "einlegegurke", "snackgurke"]
     }
   ]
 }
